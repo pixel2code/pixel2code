@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.pixeltocode.co/wp-content/uploads/2021/05/cropped-logo-redesign-colour.png" width="380px"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/61502370?v=4" width="380px"></p>
 
 <h3 align="center">Connect with us:</h3>
 <p align="center">
